@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 master
 bbbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbb
@@ -6,3 +7,8 @@ bbbbbbbbbbb
 
 asdjhasjhdj
 
+=======
+aaaa  
+asddddd
+ccc
+>>>>>>> aaa
